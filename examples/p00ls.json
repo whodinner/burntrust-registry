@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0x0000000000000000000000000000000000000000",
+  "name": "p00ls",
+  "reason": "High-profile rug, user funds inaccessible after token collapse and stealth exit. Their native token is still on Coinbase.",
+  "evidence": [
+    "https://twitter.com/p00ls",
+    "https://dune.com"
+  ]
+}

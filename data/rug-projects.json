@@ -1,0 +1,20 @@
+[
+  {
+    "contractAddress": "0x0000000000000000000000000000000000000000",
+    "name": "p00ls",
+    "reason": "High-profile rug, user funds inaccessible after token collapse and stealth exit.",
+    "evidence": [
+      "https://twitter.com/user/status/123456789",
+      "https://dune.com/some-report"
+    ]
+  },
+  {
+    "contractAddress": "0x1111111111111111111111111111111111111111",
+    "name": "Placeholder DAO",
+    "reason": "DAO multisig went dark, assets vanished after treasury vote.",
+    "evidence": [
+      "https://etherscan.io/address/0x1111111111111111111111111111111111111111",
+      "https://mirror.xyz/daoexit"
+    ]
+  }
+]
